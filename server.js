@@ -23,7 +23,7 @@ app.get('/query', (request, response) => {
 
 app.get('/hello', (request, response) => {
   response.json({
-    name: 'JACOB',
+    name: 'DAVID',
   });
 });
 
